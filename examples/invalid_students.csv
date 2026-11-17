@@ -1,0 +1,5 @@
+student_id,name,email,age,grade
+S001,Asha,asha@example.com,21,A
+S002,,not-an-email,4,B
+S002,Ravi,ravi@example.com,105,C
+S004,Meera,meera@example.com,twenty,A
